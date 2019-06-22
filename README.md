@@ -1,0 +1,2 @@
+# XASH3D-SNESC
+XASH3D FWGS for SNES Classic
